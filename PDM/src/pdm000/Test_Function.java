@@ -15,7 +15,7 @@ public class Test_Function implements ICustomAction{
 		// TODO Auto-generated method stub
 		Event_AutoChangeNumber pg1 = new Event_AutoChangeNumber();
 		Px_AutoApprover_check pg2 = new Px_AutoApprover_check();
-		
+		//SYSO
 		return new ActionResult(ActionResult.STRING,pg2.testFunction());
 	}
 	
