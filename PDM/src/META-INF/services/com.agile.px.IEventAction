@@ -1,0 +1,9 @@
+pdm000.Event_ChangeAudit
+pdm000.Event_SaveAsReference
+pdm000.Event_AutoChangeNumber
+pdm000.Event_StatusCheck
+pdm000.Event_ChangeStatusToReleasd
+pdm000.Event_SetRev
+pdm000.Event_BomCheck
+pdm000.Event_Control_Updatetable
+pdm000.PxEvent_NotificationExtension
